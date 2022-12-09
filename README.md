@@ -14,4 +14,4 @@ The code is structered as follows:
 8. Agglomerative Clustering is performed on the dissimilarity matrix using the optimal threshold.
 9. Evaluation metrics are calculated on the test samples. 
 10. Results over the 5 bootstraps are averaged. 
-11. Graphs of the results are made. 
+11. Graphs are made. 
