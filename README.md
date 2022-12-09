@@ -1,6 +1,6 @@
 # Duplicate_Detection
 
-This project is an assignment for the course "Computer Science For Business Analytics (FEM21037)" from the Erasmus University of Rotterdam. The code contains a duplication detection method which uses Locality-Sensitive Hashing (LSH) and Agglomerative Clustering using the Jaccard similarity measure. The data consists of 1624 TV advertisements. 
+This project is an assignment for the course "Computer Science For Business Analytics (FEM21037)" from the Erasmus University of Rotterdam. The code contains a duplication detection method which uses Locality-Sensitive Hashing (LSH) and Agglomerative Clustering using the Jaccard similarity measure. The data consists of 1624 TV advertisements. The code can be used without any modification if the data is in the right format (excel). 
 
 The code is structered as follows:
 
